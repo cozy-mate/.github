@@ -5,15 +5,15 @@
 |:----:|
 |<a href="https://github.com/delo5">@delo5</a>|
 
-### 💻 Server
-|서버/1|서버/2|서버/3|서버/4|서버/5|
+### 💻 Spring Boot
+|무빗/가동식|말즈/김수환|포비/박준혁|베로/정성광|바니/최수빈|
 |:----:|:----:|:----:|:----:|:----:|
-|서버/1|서버/2|서버/3|서버/4|서버/5|
+|<a href="https://github.com/eple0329">@eple0329</a>|<a href="https://github.com/genius00hwan">@genius00hwan</a>|<a href="https://github.com/jpark0506">@jpark0506</a>|<a href="https://github.com/veronees">@veronees</a>|<a href="https://github.com/suuu0719">@suuu0719</a>|
 
 ### 📱 Android
-|안드로이드/1|안드로이드/2|안드로이드/3|
+|용용/장영서|리원/황지영|두디/이도영|
 |:----:|:----:|:----:|
-|안드로이드/1|안드로이드/2|안드로이드/3|
+|<a href="https://github.com/youngseojang01">@youngseojang01</a>||<a href="https://github.com/Dodi029">@Dodi029</a>|
 
 ---
 
