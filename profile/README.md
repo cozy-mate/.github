@@ -13,7 +13,7 @@
 ### 📱 Android
 |용용/장영서|리원/황지영|두디/이도영|
 |:----:|:----:|:----:|
-|<a href="https://github.com/youngseojang01">@youngseojang01</a>||<a href="https://github.com/Dodi029">@Dodi029</a>|
+|<a href="https://github.com/youngseojang01">@youngseojang01</a>|<a href="https://github.com/jiyoung02">@jiyoung02</a>|<a href="https://github.com/Dodi029">@Dodi029</a>|
 
 ---
 
