@@ -1,3 +1,5 @@
+![스크린샷 2024-08-27 오전 12 36 50](https://github.com/user-attachments/assets/9ba5f580-6273-47bd-b4e4-8fb41fe94436)
+
 ## 🧑🏻‍💻 Participants
 
 ### 🔥 PM & 🎨 Design
@@ -15,10 +17,7 @@
 |:----:|:----:|:----:|
 |<a href="https://github.com/youngseojang01">@youngseojang01</a>|<a href="https://github.com/jiyoung02">@jiyoung02</a>|<a href="https://github.com/Dodi029">@Dodi029</a>|
 
----
-
-## 👤 Informal Participants 
 ### 🍎 iOS
-|눈꽃/정진혁|
-|:----:|
-|<a href="https://github.com/JJHyeok13">@JJHyeok13</a>|
+|눈꽃/정진혁|포비/박준혁|
+|:----:|:----:|
+|<a href="https://github.com/JJHyeok13">@JJHyeok13</a>|<a href="https://github.com/jpark0506">@jpark0506</a>|
